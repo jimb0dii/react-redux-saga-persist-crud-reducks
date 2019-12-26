@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run dev`
+
+Runs the app in development mode and will also run json-server for our fake REST API. <br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser. <br />
+Open [http://localhost:4000/api/products](http://localhost:4000/api/products) to view our REST API data. <br />
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
